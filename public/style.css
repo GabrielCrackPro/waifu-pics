@@ -1,0 +1,12 @@
+*{ 
+ margin: 0; 
+ padding: 0; 
+ box-sizing: border-box; 
+ }
+ .waifu-bg{
+ background: #272727;
+ }
+ .waifu-color{
+ color: #272727;
+ }
+
