@@ -8,6 +8,7 @@ Pictures are form <a href="https://waifu.pics/docs" target="blank">waifu.pics AP
 
 ## TODO
 - [x] Add SFW pictures page
-- [ ] Add NSFW pictures page
+- [x] Add NSFW pictures page
+- [ ] Add category filter
 - [ ] Debug 🔧
 - [ ] Deploy 🌏
